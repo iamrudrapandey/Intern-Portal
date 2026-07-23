@@ -446,6 +446,19 @@ Through this project, the following concepts were implemented:
 * CORS configuration
 * Resource lifecycle management
 
+# Intern Registry — Project 4: Frontend & Backend Integration
+
+## 🔗 Live Demo
+
+- **Frontend (Vercel):** https://intern-portal-ruby-omega.vercel.app/
+- **Backend API (Render):** https://intern-portal-backend-fgh7.onrender.com/api/interns
+
+> Note: the backend is on Render's free tier, which spins down after inactivity. The first request after idle time can take 30–50 seconds to respond while it wakes up — this is expected, not a bug.
+
+A full-stack app built to demonstrate integrating a React frontend with an
+Express REST API — sending requests, displaying dynamic data, and handling
+errors gracefully.
+
 # 👩‍💻 Author
 
 **Rudra Pandey**
